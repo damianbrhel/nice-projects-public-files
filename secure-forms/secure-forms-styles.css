@@ -1,4 +1,7 @@
-body {background-color: blue;}
+body {
+    background-color: #d5d5d5;
+}
+
 input .text {
     position: relative;
     -webkit-box-sizing: border-box;
