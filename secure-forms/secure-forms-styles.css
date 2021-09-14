@@ -5,6 +5,7 @@ body {
 }
 
 .text {
+    margin-left: 5px;
     position: relative;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
