@@ -68,3 +68,8 @@ body {
 .button:hover {
     filter: brightness(115%);
 }
+
+.label-required {
+    color: #d04646;
+    font-size: 13px;
+}
