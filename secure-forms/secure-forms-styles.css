@@ -1,6 +1,7 @@
 body {
-    background-color: #d5d5d5;
+    background-color: #f5f8fa;
     font-family: "Open Sans", Arial;
+    color: #4a4a4a;
 }
 
 .text {
@@ -30,6 +31,7 @@ body {
 }
 
 .button {
+    border: 0;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     position: relative;
@@ -60,4 +62,8 @@ body {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+}
+
+.button:hover {
+    filter: brightness(115%);
 }
